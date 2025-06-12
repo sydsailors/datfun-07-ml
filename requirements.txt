@@ -222,7 +222,7 @@ ipywidgets
 # ======================================================
 
 # Numerical computations and arrays (20-30 MB)
-# numpy
+numpy
 
 # Data manipulation and analysis (built on numpy, 10-20 MB)
 # pandas
@@ -277,7 +277,9 @@ seaborn
 # statsmodels
 
 # Core ML library with flexible APIs (~40-50 MB)
-# scikit-learn
+scikit-learn
+sklearn
+
 
 # ======================================================
 # NATURAL LANGUAGE PROCESSING (NLP) - CAN BE VERY LARGE
