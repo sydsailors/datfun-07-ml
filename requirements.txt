@@ -279,6 +279,7 @@ seaborn
 # Core ML library with flexible APIs (~40-50 MB)
 scikit-learn
 sklearn
+scipy
 
 
 # ======================================================
