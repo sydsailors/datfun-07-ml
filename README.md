@@ -40,3 +40,5 @@ git add .
 git commit -m "custom message"
 git push -u origin main
 ```
+
+## Steps to Perform
