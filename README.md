@@ -65,6 +65,7 @@ git push -u origin main
 - Git add / commit / push your changes to GitHub. 
 
 ### Predict Average High Temperature in NYC in January (Part 2)
+Use Linear Regression on Average High Temperatures in NYC in January 
 - Add to your notebook as you work through the process. Add a Markdown cell with a second-level heading named Part 2 - Prediction. Use third-level Markdown headings for each section listed below. Copy and paste the section heading, and add a ### space before each. 
   - Section 1 - Data Acquisition
     - Follow the instructions to load NY City January high temperature from a csv file into a DataFrame.
@@ -85,3 +86,7 @@ git push -u origin main
     - Follow the instructions and use Seaborn to generate a scatter plot with a best fit line.
     - Set the axes and the y scale as directed
     - Customize your chart and notebook as you like to make your work clear and compelling. 
+
+### Predict Average High Temperature in NYC in January (Part 3)
+Use Linear Regression on Average High Temperatures in NYC in January using a different approach.
+- 
