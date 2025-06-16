@@ -89,4 +89,28 @@ Use Linear Regression on Average High Temperatures in NYC in January
 
 ### Predict Average High Temperature in NYC in January (Part 3)
 Use Linear Regression on Average High Temperatures in NYC in January using a different approach.
-- 
+- Continue the project by following the steps in 15.4 (staring page 620 in your textbook). 
+- This time, we'll use scikit-learn estimator, and we'll practice splitting data for training (to build a model) and testing (testing our model against known values). 
+- Follow the instructions all the way though charting it again with the specified axes.
+- These sections are new - add these numbered sections to Part 3. Use third-level Markdown headings for each section listed below. Copy and paste the section heading, and add a ### space before each.
+  - Section 1 - Build the Model
+    - Use test_train_split to split the data into parts for training and testing.
+    - Check the shape of each data set.
+    - Train the model using Linear Regression Fit. 
+    - View the returned coef_ and intercept_  attributes need for the line equation (y = mx + b)
+  - Section 2 - Test the Model
+    - Test the model as directed.
+  - Section 3 - Predict 
+    - Use your model to predict the "average high temp in Jan" for the year 2024 (like they did for 2019).
+  - Section 4 - Visualizations
+    - Follow the instructions and use Seaborn to generate a scatter plot with a best fit line.
+    - Set the axes and the y scale as directed
+    - Customize your chart and notebook as you like to make your work clear and compelling. 
+Run the whole notebook to verify. Fix any issues or warnings.
+Git add / commit / push your changes to GitHub. 
+
+### Add Insights (Part 4)
+- At the end of the notebook, add a second-level Markdown Heading for Part 4 with some remarks comparing the two methods.
+- Excellent analytical skills need professional communication skills to be of maximum benefit. 
+- Your narrative and the way you present your work is key. 
+
